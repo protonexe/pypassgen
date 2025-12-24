@@ -1,6 +1,6 @@
 # Password Generator and Vault
 
-Learning project to generate passwords and passphrases while storing them locally on disk.
+Educational project to generate passwords and passphrases while storing them locally on disk.
 
 ## Features
 - **Dual-Mode Generation**: Switch between complex character strings (Mode 1) and human-friendly word passphrases (Mode 2).
