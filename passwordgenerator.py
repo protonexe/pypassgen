@@ -23,7 +23,7 @@ if __name__=="__main__":
 
             
     while z=="y":
-        ch=int(input("Random Character Mode(1) or Passphrase Mode (2):"))
+        ch=int(input("Random Character Mode (1) or Passphrase Mode (2):"))
         if ch==1:
             try:
                 np=int(input("No of passwords to generate:"))
